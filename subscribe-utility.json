@@ -1,0 +1,12 @@
+{
+	"MainClass"      : "com.protean.ondc.onboarding.OnBoardingApplication",
+	"LibFolder"      : "vlxlib",
+	"JArgs"          : [ ],
+	"Verbose"        : false,
+	"HideConsole"    : false,
+	"IncludeJavaFX"  : false,
+	"Splash"         : "",
+	"SWTApplication" : false,
+	"Evaluation"     : true,
+	"JavaVersion"    : 17
+}
